@@ -75,7 +75,7 @@ bug 修复和功能优化或许会有帮助。
 app，毕竟我们都有相同的爱好那就是动漫！
 
 请使用微信扫码进行打赏\
-<img src="images/wxpay.jpg" style="max-width:360px">
+<img src="images/wxpay.jpg" width="360px">
 
 请使用支付宝扫码进行打赏\
-<img src="images/alipay.jpg" style="max-width:360px">
+<img src="images/alipay.jpg" width="360px">
