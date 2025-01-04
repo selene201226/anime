@@ -13,6 +13,8 @@
 
 - android
 - android tv (这是被主要支持的平台，你可以用电视遥控器舒服的躺沙发看动漫)
+- windows
+- linux
 
 索引
 
