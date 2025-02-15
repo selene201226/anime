@@ -90,10 +90,11 @@ app 中。(如果浏览器中打开没有进行人机验证，通常你只需要
 > 错误，此时需要重新进行人机验证后将最新的 Cookie 拷贝到 app 中
 
 抽屉菜单中还有个 Webview 按钮，对于桌面系统它会调用浏览器打开
-https://anime1.me，对于非桌面系统则内置了一个 webview 组件直接在 app 内打开
-https://anime1.me。当内置组件加载完 https://anime1.me
+[https://anime1.me](https://anime1.me) ，对于非桌面系统则内置了一个 webview
+组件直接在 app 内打开 [https://anime1.me](https://anime1.me)。当内置组件加载完
+[https://anime1.me](https://anime1.me)
 后你可以点击页面右上角的同步按钮，它会自动将此时的 User-Agent 和 Cookie 设置到
-app 内用以避免调用 anime1.me 网页时触发人机验证
+app 内，用以避免调用 anime1.me 网页时触发人机验证
 
 # 打赏
 
