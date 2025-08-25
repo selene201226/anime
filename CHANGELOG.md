@@ -1,3 +1,6 @@
+# v0.0.7
+- 为 android tv 添加 banner
+
 # v0.0.6
 
 - 自定义 User-Agent
